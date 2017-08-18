@@ -1,0 +1,4 @@
+gradle-home/
+spring-framework/
+*.log
+*.txt
